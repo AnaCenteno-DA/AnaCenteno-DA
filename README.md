@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Ana Centeno Banner">
+ ![facets-of-data-analytics](https://github.com/user-attachments/assets/16c9cc1e-ede3-4cba-b3ef-7861ca5fa8fb)
 </p>
 
 # 👋 Hi, I'm Ana Centeno!
