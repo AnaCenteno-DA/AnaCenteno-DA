@@ -1,6 +1,10 @@
-<p align="center">
+<div align="center">
+  <hr>
+  
  ![facets-of-data-analytics](https://github.com/user-attachments/assets/16c9cc1e-ede3-4cba-b3ef-7861ca5fa8fb)
-</p>
+  <hr>
+
+</div>
 
 # 👋 Hi, I'm Ana Centeno!
 
