@@ -14,7 +14,7 @@
 
 ## 📌 About Me | À propos de moi
 
-**EN 🇬🇧**  
+**EN ca**  
 I’m a Data Analyst & Business Intelligence student based in Montreal. I’m passionate about open government data, community empowerment, and data-driven storytelling.  
 
 **FR 🇫🇷**  
