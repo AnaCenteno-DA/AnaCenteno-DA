@@ -1,11 +1,14 @@
 
 
 
+<img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/eec96ec2-dd33-48ae-9a4f-8653fa66e970" />
+
+
+
+
+
 
 # 👋 Hi, I'm Ana Centeno!
-
-[![Visitor Badge](https://komarev.com/ghpvc/?username=AnaCenteno-DA&style=flat&color=blue)](https://github.com/AnaCenteno-DA)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
 
 ---
 
