@@ -43,7 +43,7 @@ Je suis une analyste de données et étudiante en Business Intelligence basée �
 
 ## 📈 GitHub Stats
 
-![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaCenteno-DA&show_icons=true&theme=default)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCenteno-DA&layout=compact)
 
 ---
