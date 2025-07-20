@@ -47,6 +47,8 @@ Je suis une analyste de données et étudiante en Business Intelligence basée �
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCenteno-DA&layout=compact)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=default)
 ---
 
 ## 📫 Connect | Me contacter
