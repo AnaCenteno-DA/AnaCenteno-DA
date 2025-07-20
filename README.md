@@ -14,12 +14,12 @@
 
 ## 📌 About Me | À propos de moi
 
-**EN ca**  
-**EN ca** <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1e6.svg" width="20"/>
+**EN**  
+
 
 I’m a Data Analyst & Business Intelligence student based in Montreal. I’m passionate about open government data, community empowerment, and data-driven storytelling.  
 
-**FR 🇫🇷**  
+**FR**  
 Je suis une analyste de données et étudiante en Business Intelligence basée à Montréal. J’aime travailler avec des données ouvertes, l’analyse des politiques publiques et l’autonomisation des communautés grâce aux données.
 
 ---
