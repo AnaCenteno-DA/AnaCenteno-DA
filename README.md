@@ -51,8 +51,8 @@ Je suis une analyste de données et étudiante en Business Intelligence basée �
 
 ## 📫 Connect | Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)  
-📧 [Email me](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-centeno-baltazar/)  
+📧 [Email me](mailto:CentenoAj@outlook.com)
 
 ---
 
