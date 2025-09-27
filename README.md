@@ -24,7 +24,7 @@ Je suis une analyste de données et étudiante en Business Intelligence basée �
 
 ---
 
-## 🚀 Data Visualisation Projects 
+## 🚀 Data Visualization Projects 
 
 - 📈 **Subsidies & Scholarships for Immigrants**  
 - 📊 **Francisation in Québec** — Tableau dashboards
@@ -34,10 +34,10 @@ Je suis une analyste de données et étudiante en Business Intelligence basée �
 *(Class projects – Colab notebooks + presentations)*  
 
 - **Machine Learning Project** *(link coming soon)*  
-  *Comparison of Classification models: logistic regression, Decision Tree and Random Forest.*  
+  *Comparison of Classification models: Logistic Regression, Decision Tree and Random Forest.*  
 
 - **Sentiment Analysis on IMDB** *(link coming soon)*  
-  *Comparing ML models vrs LSTM DL for analyzing reviews from IMDB with TensorFlow/Keras.*  
+  *Comparing ML models vrs DL model for analyzing reviews from IMDB with TensorFlow/Keras.*  
 
 ---
 
