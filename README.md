@@ -31,13 +31,13 @@ Je suis une analyste de données et étudiante en Business Intelligence basée �
 - 🎓 Preparing for **Google Data Analytics** & **Microsoft PL-300**
 
 ## 🤖 Machine Learning Projects
-*(Class projects – Colab notebooks + presentations)*  
+(Class projects – Colab notebooks + presentations)  
 
-- **Machine Learning Project** *(link coming soon)*  
-  *Comparison of Classification models: Logistic Regression, Decision Tree and Random Forest.*  
+- **Machine Learning Project** (link coming soon)  
+  Comparison of Classification models: Logistic Regression, Decision Tree and Random Forest.  
 
-- **Sentiment Analysis on IMDB** *(link coming soon)*  
-  *Comparing ML models vrs DL model for analyzing reviews from IMDB with TensorFlow/Keras.*  
+- **Sentiment Analysis on IMDB** (link coming soon)  
+  Comparing ML models vrs DL model for analyzing reviews from IMDB with TensorFlow/Keras.  
 
 ---
 
