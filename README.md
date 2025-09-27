@@ -24,11 +24,20 @@ Je suis une analyste de données et étudiante en Business Intelligence basée �
 
 ---
 
-## 🚀 Projects | Projets
+## 🚀 Data Visualisation Projects 
 
 - 📈 **Subsidies & Scholarships for Immigrants**  
 - 📊 **Francisation in Québec** — Tableau dashboards
 - 🎓 Preparing for **Google Data Analytics** & **Microsoft PL-300**
+
+## 🤖 Machine Learning Projects
+*(Class projects – Colab notebooks + presentations)*  
+
+- **Machine Learning Project** *(link coming soon)*  
+  *Comparison of Classification models: logistic regression, Decision Tree and Random Forest.*  
+
+- **Sentiment Analysis on IMDB** *(link coming soon)*  
+  *Comparing ML models vrs LSTM DL for analyzing reviews from IMDB with TensorFlow/Keras.*  
 
 ---
 
