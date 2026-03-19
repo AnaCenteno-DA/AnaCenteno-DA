@@ -8,38 +8,50 @@
 
 
 
-# 👋 Hi, I'm Ana Centeno!
+# 👋 Hi, I'm Ana Centeno
+
+💼 QA Analyst | Manual Testing | API Testing (Postman) | SQL | Agile  
+📊 Data Analyst | Excel | Power BI | Data Validation  
 
 ---
 
-## 📌 About Me | À propos de moi
+## 🔹 QA Portfolio (Featured)
 
-**EN**  
+### 🧪 API Testing – Postman
+- Tested REST APIs (GET, POST, PUT, DELETE)
+- Validated status codes and responses
+- Used environments and variables
 
+### 🐞 Bug Reports Portfolio
+- Documented real bugs with clear steps
+- Included severity, priority, screenshots
 
-I’m a Data Analyst & Business Intelligence student based in Montreal. I’m passionate about open government data, community empowerment, and data-driven storytelling.  
+### ✅ Test Cases & Scenarios
+- Functional testing scenarios
+- Positive & negative cases
 
-**FR**  
-Je suis une analyste de données et étudiante en Business Intelligence basée à Montréal. J’aime travailler avec des données ouvertes, l’analyse des politiques publiques et l’autonomisation des communautés grâce aux données.
+---
+
+## 🔹 Data Projects
+
+- Sales Dashboard (Excel)
+- Data Cleaning & Analysis (Python)
+- Visualization Projects
 
 ---
 
-## 🚀 Data Visualization Projects 
+## 🔹 Skills
 
-- 📈 **Subsidies & Scholarships for Immigrants**  
-- 📊 **Francisation in Québec** — Tableau dashboards
-- 🎓 Preparing for **Google Data Analytics** & **Microsoft PL-300**
+**QA**
+- Manual Testing
+- API Testing (Postman)
+- Bug Tracking
+- Test Case Design
 
-## 🤖 Machine Learning Projects
-(Class projects – Colab notebooks + presentations)  
-
-- **Machine Learning Project** (link coming soon)  
-  Comparison of Classification models: Logistic Regression, Decision Tree and Random Forest.  
-
-- **Sentiment Analysis on IMDB** (link coming soon)  
-  Comparing ML models vrs DL model for analyzing reviews from IMDB with TensorFlow/Keras.  
-
----
+**Data**
+- Excel
+- SQL
+- Power BI
 
 ## 🛠️ Tools & Skills | Outils et compétences
 
