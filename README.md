@@ -8,52 +8,39 @@
 
 
 
-# 👋 Hi, I'm Ana Centeno
+# 👋 Hi, I'm Ana
 
-💼 QA Analyst | Manual Testing | API Testing (Postman) | SQL | Agile  
-📊 Data Analyst | Excel | Power BI | Data Validation  
+QA Analyst with expertise in Data Analytics & Business Intelligence.
 
----
-
-## 🔹 QA Portfolio (Featured)
-
-### 🧪 API Testing – Postman
-- Tested REST APIs (GET, POST, PUT, DELETE)
-- Validated status codes and responses
-- Used environments and variables
-
-### 🐞 Bug Reports Portfolio
-- Documented real bugs with clear steps
-- Included severity, priority, screenshots
-
-### ✅ Test Cases & Scenarios
-- Functional testing scenarios
-- Positive & negative cases
+I combine **software testing, data analysis, and visualization** to ensure data quality and support data-driven decision-making.
 
 ---
 
-## 🔹 Data Projects
-
-- Sales Dashboard (Excel)
-- Data Cleaning & Analysis (Python)
-- Visualization Projects
+## 🔍 What I do
+- Software Testing (Manual & Functional)
+- Data Analysis & Visualization
+- Data Validation & Quality Assurance
+- Reporting & Insights
 
 ---
 
-## 🔹 Skills
+## 🛠️ Tools & Technologies
+Excel | SQL | Python | Power BI
 
-**QA**
-- Manual Testing
-- API Testing (Postman)
-- Bug Tracking
-- Test Case Design
+---
 
-**Data**
-- Excel
-- SQL
-- Power BI
+## 📊 Featured Projects
+- 📈 Sales Analysis Dashboard (Excel) – Regional performance and trends analysis  
+- 🧹 Data Cleaning & Analysis (SQL/Python) – Data preparation and insights generation  
 
-## 🛠️ Tools & Skills | Outils et compétences
+---
+
+## 🌎 Languages
+English | French | Spanish
+
+---
+
+## 🛠️ Tools & Skills 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
