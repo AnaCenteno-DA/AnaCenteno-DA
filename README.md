@@ -41,7 +41,9 @@ Excel | SQL | Python | Power BI | Data Cleaning | Data Visualization
 ---
 
 ## 🌎 Languages
+---
 English | French | Spanish
+
 ---
 
 ## 📫 Connect | Me contacter
