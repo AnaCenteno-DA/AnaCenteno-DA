@@ -140,7 +140,7 @@ Seeking opportunities as:
 
 ## 📫 Contact
 
-* [LinkedIn:] https://www.linkedin.com/in/ana-centeno-tech/
+* LinkedIn: https://www.linkedin.com/in/ana-centeno-tech/
 * GitHub: https://github.com/AnaCenteno-DA
 
 ---
