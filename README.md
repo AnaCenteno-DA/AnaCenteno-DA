@@ -8,52 +8,141 @@
 
 
 
-# 👋 Hi, I'm Ana
+# 👩‍💻 Ana Centeno
 
-QA Analyst with strong skills in Data Analytics & Business Intelligence.
+**QA Analyst & Data Analyst (in training)**
 
-I combine **software testing, data analysis, and visualization** to support data quality and deliver meaningful insights for decision-making.
-
----
-
-## 🔍 What I do
-- Manual Software Testing (Functional & Regression)
-- Data Analysis & Visualization
-- Data Validation & Quality Assurance
-- Reporting & Insights
+📍 Based in Quebec, Canada
+🌎 Trilingual: Spanish | English | French
 
 ---
 
-## 🧪 QA & Testing Tools
-Manual Testing | Test Case Design | Bug Reporting | Functional Testing | Regression Testing | Data Validation
+## 🚀 About Me
+
+QA Analyst with 4+ years of experience in software testing, now expanding into **Data Analysis and Business Intelligence**.
+
+I specialize in ensuring **data quality, system reliability, and data-driven insights** by combining QA methodologies with analytical skills.
+
+💡 Passionate about:
+
+* Data analysis & visualization
+* Data quality & validation
+* Public sector data & social impact
 
 ---
 
-## 📊 Data Analytics & BI Tools
-Excel | SQL | Python | Power BI | Data Cleaning | Data Visualization
+## 🧠 Core Skills
+
+### 🔍 QA Testing
+
+* Functional & Regression Testing
+* Test Case Design & Execution
+* Bug Reporting & Defect Tracking
+* API Testing (Postman)
+* Agile / Scrum
+
+### 📊 Data Analysis
+
+* Excel (Advanced formulas, Pivot Tables)
+* SQL (Data querying & validation)
+* Power BI (Dashboards & reporting)
+* Data Cleaning & Transformation
+* Data Visualization & Storytelling
 
 ---
 
-## 📊 Featured Projects
-- 📈 Sales Analysis Dashboard (Excel) – Regional performance analysis and business insights  
-- 🧹 Data Cleaning & Analysis (SQL/Python) – Data preparation, transformation, and insights generation  
+## 📊 Data Analysis Projects
+
+### 📌 DataNova – Sales Analysis by Region
+
+* Cleaned and analyzed regional sales data
+* Created dashboards using Excel
+* Identified trends and key performance indicators
+
+🔗 *[Add your repo link here]*
 
 ---
 
-## 🌎 Languages
----
-English | French | Spanish
+### 📌 Public Data Project (Québec / MIFI)
+
+* Analysis of public datasets related to immigration or education
+* Data visualization using Tableau / Power BI
+* Insights to support decision-making
+
+🔗 *[Add your repo link here]*
 
 ---
 
-## 📫 Connect | Me contacter
+### 📌 SQL Data Analysis
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-centeno-baltazar/)  
+* Data extraction and analysis using SQL queries
+* Filtering, grouping, and aggregating data
+* Validation of data consistency
+
+🔗 *[Add your repo link here]*
 
 ---
 
-## 📧 [Email me](mailto:CentenoAj@outlook.com)
+## 🧪 QA Testing Projects
+
+### 📌 Test Case Design
+
+* Created structured test cases based on requirements
+* Covered functional and edge case scenarios
+
+🔗 *[Add your repo link here]*
 
 ---
 
-*Thank you for visiting my profile! | Merci de visiter mon profil !* ✨
+### 📌 Bug Reports Portfolio
+
+* Documented bugs with clear steps to reproduce
+* Included expected vs actual results
+* Prioritized defects based on severity
+
+🔗 *[Add your repo link here]*
+
+---
+
+### 📌 API Testing (Postman)
+
+* Tested REST APIs using Postman
+* Validated responses and status codes
+* Created collections for reuse
+
+🔗 *[Add your repo link here]*
+
+---
+
+## 🔗 Hybrid Project (QA + Data)
+
+### 📌 Data Quality Analysis Project
+
+* Identified inconsistencies in datasets
+* Applied QA validation techniques to data
+* Generated insights after cleaning data
+
+🔗 *[Add your repo link here]*
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as:
+
+* Data Analyst
+* QA Analyst (Data-focused)
+* Data Quality Analyst
+* BI / Data Testing roles
+
+---
+
+## 📫 Contact
+
+* LinkedIn: *[Add your link]*
+* GitHub: https://github.com/AnaCenteno-DA
+
+---
+
+⭐ *This portfolio reflects my journey combining QA expertise with data analysis skills to deliver high-quality, data-driven solutions.*
+
