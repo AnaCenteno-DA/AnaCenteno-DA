@@ -1,106 +1,146 @@
 <img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/e00e2f59-f992-4f88-b89f-a00dbd282737" />
 
 # 👩‍💻 Ana Centeno  
-### QA Analyst & Data Analyst 
+### QA Analyst | Data Quality & Analytics Specialist
 
 📍 Quebec, Canada  
 🌎 Spanish | English | French  
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Profile
 
-QA Analyst with 4+ years of experience in software testing, leveraging Data Analysis and Business Intelligence skills to enhance test validation, data quality, and reporting.
+QA Analyst with 4+ years of experience ensuring software quality, data integrity, and system reliability in Agile environments.
 
-I specialize in ensuring **software quality, data accuracy, and actionable insights** by combining QA methodologies with analytical thinking.
-
-🎯 Focus areas:
-- Data quality & validation  
-- Software testing & QA processes  
-- Data analysis & visualization  
-- Public sector and social impact data  
+I combine **Quality Assurance expertise with Data Analysis skills** to validate systems, improve data accuracy, and support data-driven decision-making.
 
 ---
 
-## 🧠 Core Skills
+## 🎯 Value I Bring
 
-### 🔍 QA Testing
-- Manual & Functional Testing  
-- Test Case Design & Execution  
-- Bug Reporting & Defect Tracking  
-- API Testing (Postman)  
-- Agile / Scrum environments  
-
-### 📊 Data Analysis
-- Excel (Advanced: Pivot Tables, Formulas, Dashboards)  
-- SQL (Data querying & validation)  
-- Power BI (Dashboards & reporting)  
-- Data Cleaning & Transformation  
-- Data Visualization  
+✔ Improve software reliability through structured QA processes  
+✔ Detect data inconsistencies and ensure data quality  
+✔ Translate raw data into actionable insights  
+✔ Bridge QA testing with data validation workflows  
 
 ---
 
-## 🧪 QA Testing Portfolio
+## 🧠 Core Expertise
 
-📌 Practical QA experience in real testing environments
+### 🔍 Quality Assurance (QA)
+- Functional, Regression & Exploratory Testing  
+- Test Case Design & Execution (STLC)  
+- Bug Reporting & Defect Lifecycle Management  
+- API Testing (Postman – GET, POST, validation)  
+- Agile / Scrum collaboration  
 
-- Manual test case design and execution  
-- API testing using Postman (GET, POST, validation)  
-- Bug reporting and defect documentation  
-- Functional and regression testing  
-
-🔗 [View QA Portfolio](https://github.com/AnaCenteno-DA/QA-Testing-portfolio)
+### 📊 Data & Analytics
+- Data Cleaning & Validation  
+- Excel (Advanced dashboards, Pivot Tables, KPIs)  
+- SQL (Filtering, joins, aggregation, validation)  
+- Power BI (Reports & business dashboards)  
+- Data Quality Analysis  
 
 ---
 
-## 📊 Data Analysis Projects
+## 🧪 QA ENGINEERING PROJECT (REAL-WORLD SIMULATION)
 
-### 📌 Sales Analysis Dashboard (Excel / Power BI)
-- Data cleaning and transformation  
-- KPI analysis and visualization  
-- Interactive dashboard creation  
+### 📌 E-Commerce QA Testing Framework
+
+**Objective:** Validate functionality and reliability of a web application.
+
+**Work performed:**
+- Designed 20+ structured test cases (login, checkout, search)
+- Executed manual functional testing across multiple scenarios
+- Performed API testing using Postman (status validation, response structure)
+- Logged and documented defects with severity classification
+- Identified usability and functional inconsistencies
+
+**QA Deliverables:**
+- Test Cases
+- Bug Reports
+- Test Execution Evidence
+
+🔗 [QA Portfolio Repository](https://github.com/AnaCenteno-DA/QA-Testing-portfolio)
+
+---
+
+## 📊 DATA ANALYSIS PROJECTS
+
+### 📌 Retail Sales Analytics Dashboard
+
+**Objective:** Analyze sales performance and business KPIs.
+
+**Work performed:**
+- Cleaned and structured raw sales dataset
+- Built interactive dashboards in Excel / Power BI
+- Identified trends in revenue and regional performance
+- Created KPI indicators for decision-making
 
 🔗 [Retail Analytics Project](https://github.com/AnaCenteno-DA/Retail_Analytics_Superstore_Dashboard)
 
 ---
 
-### 📌 Public Data Analysis – Québec
-- Analysis of public datasets (immigration / education)  
-- Data visualization using Excel / Tableau  
-- Insights for decision-making  
+### 📌 Public Sector Data Analysis (Québec)
 
-🔗 [Québec Data Project](https://github.com/AnaCenteno-DA/Francisation_Quebec)
+**Objective:** Analyze public datasets to generate insights for policy support.
 
----
+**Work performed:**
+- Processed immigration / education-related datasets
+- Performed data cleaning and transformation
+- Built visual insights using Excel / Tableau concepts
+- Identified trends and data gaps
 
-### 📌 SQL Data Analysis Project
-- Data extraction and querying using SQL  
-- Aggregation, filtering, and validation  
-- Reporting using Excel dashboards  
-
-🔗 [Northwind SQL Analysis](https://github.com/AnaCenteno-DA/Data_Analysis_with_Northwind_DB)
+🔗 [Public Data Project](https://github.com/AnaCenteno-DA/Francisation_Quebec)
 
 ---
 
-## 🔗 Hybrid Project (QA + Data)
+### 📌 SQL Data Validation Project
 
-### 📌 Data Quality Analysis Project
-- Applied QA validation techniques to datasets  
-- Identified inconsistencies and data issues  
-- Cleaned and improved data quality  
-- Generated insights after validation  
+**Objective:** Validate and extract structured business data.
 
-🔗 [View Project](#)
+**Work performed:**
+- Executed SQL queries for data extraction
+- Applied joins, filters, and aggregations
+- Validated data consistency across tables
+- Created reporting-ready datasets in Excel
+
+🔗 [SQL Analysis Project](https://github.com/AnaCenteno-DA/Data_Analysis_with_Northwind_DB)
 
 ---
 
-## 🎯 Career Objective
+## 🔗 HYBRID PROJECT (QA + DATA QUALITY)
 
-Seeking opportunities as:
-- Data Analyst  
-- QA Analyst (Data-focused)  
-- Data Quality Analyst  
-- BI / Reporting Analyst  
+### 📌 Data Quality Assurance Project
+
+**Objective:** Apply QA mindset to data validation.
+
+**Work performed:**
+- Identified missing, inconsistent, and duplicate data
+- Applied QA validation techniques to datasets
+- Cleaned and standardized data structures
+- Documented data quality issues and resolutions
+
+🔗 *(Add repository link here)*
+
+---
+
+## 📈 Tools & Technologies
+
+**QA Tools**
+Postman | Jira (concepts) | Agile | Test Management
+
+**Data Tools**
+Excel | SQL | Power BI | Tableau (basic)
+
+---
+
+## 🎯 Career Interests
+
+- QA Analyst (Mid-Level)
+- Data Quality Analyst
+- QA + Data Hybrid Roles
+- Business Intelligence Analyst (Junior)
 
 ---
 
@@ -111,5 +151,6 @@ Seeking opportunities as:
 
 ---
 
-⭐ *Hybrid professional combining QA expertise with Data Analysis to deliver high-quality, data-driven solutions.*
+## ⭐ Professional Summary
 
+I am a QA professional transitioning into data-driven quality and analytics roles, focused on improving system reliability, ensuring data accuracy, and delivering insights that support business decisions.
