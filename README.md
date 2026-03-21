@@ -79,7 +79,7 @@ I specialize in ensuring **data quality, system reliability, and data-driven ins
 * Filtering, grouping, and aggregating data
 * Validation of data consistency
 
-🔗[Data Nova Project] (https://github.com/AnaCenteno-DA/Data_Analysis_with_Northwind_DB)
+🔗[*Data Nova Project*](https://github.com/AnaCenteno-DA/Data_Analysis_with_Northwind_DB)
 
 ---
 
@@ -139,7 +139,7 @@ Seeking opportunities as:
 
 ## 📫 Contact
 
-* LinkedIn: *[Add your link]*
+* [*LinkedIn:*](https://www.linkedin.com/in/ana-centeno-tech/)
 * GitHub: https://github.com/AnaCenteno-DA
 
 ---
