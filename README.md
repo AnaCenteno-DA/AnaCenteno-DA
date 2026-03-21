@@ -50,6 +50,19 @@ I specialize in ensuring **data quality, system reliability, and data-driven ins
 * Data Visualization & Storytelling
 
 ---
+## 🧪 QA Testing Portfolio
+
+📌 Repository showcasing practical experience in Quality Assurance (QA)
+
+Includes:
+- Manual test case design
+- API testing using Postman
+- Bug reporting and defect tracking
+- Functional and regression testing
+
+🔗 [View full repository](https://github.com/AnaCenteno-DA/QA-Testing-portfolio)
+
+---
 
 ## 📊 Data Analysis Projects
 
@@ -81,37 +94,6 @@ I specialize in ensuring **data quality, system reliability, and data-driven ins
 * Validation of data consistency
 
 🔗[*Data Nova Project*](https://github.com/AnaCenteno-DA/Data_Analysis_with_Northwind_DB)
-
----
-
-## 🧪 QA Testing Projects
-
-### 📌 Test Case Design
-
-* Created structured test cases based on requirements
-* Covered functional and edge case scenarios
-
-🔗 *[Add your repo link here]*
-
----
-
-### 📌 Bug Reports Portfolio
-
-* Documented bugs with clear steps to reproduce
-* Included expected vs actual results
-* Prioritized defects based on severity
-
-🔗 *[Add your repo link here]*
-
----
-
-### 📌 API Testing (Postman)
-
-* Tested REST APIs using Postman
-* Validated responses and status codes
-* Created collections for reuse
-
-🔗 *[Add your repo link here]*
 
 ---
 
