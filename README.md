@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/e00e2f59-f992-4f88-b89f-a00dbd282737" />
 
 # 👩‍💻 Ana Centeno  
-### QA Analyst & Data Analyst (In Transition)
+### QA Analyst & Data Analyst 
 
 📍 Quebec, Canada  
 🌎 Spanish | English | French  
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-QA Analyst with 4+ years of experience in software testing, transitioning into Data Analysis and Business Intelligence.
+QA Analyst with 4+ years of experience in software testing, leveraging Data Analysis and Business Intelligence skills to enhance test validation, data quality, and reporting.
 
 I specialize in ensuring **software quality, data accuracy, and actionable insights** by combining QA methodologies with analytical thinking.
 
