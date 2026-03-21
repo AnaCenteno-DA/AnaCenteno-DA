@@ -69,7 +69,7 @@ I specialize in ensuring **data quality, system reliability, and data-driven ins
 * Data visualization using Tableau / Power BI
 * Insights to support decision-making
 
-🔗 *[Add your repo link here]*
+🔗 [Data Nova Project]*[Add your repo link here]*
 
 ---
 
@@ -79,7 +79,7 @@ I specialize in ensuring **data quality, system reliability, and data-driven ins
 * Filtering, grouping, and aggregating data
 * Validation of data consistency
 
-🔗 *[Add your repo link here]*
+🔗[Data Nova Project] (https://github.com/AnaCenteno-DA/Data_Analysis_with_Northwind_DB)
 
 ---
 
