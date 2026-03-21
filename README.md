@@ -53,30 +53,31 @@ I specialize in ensuring **data quality, system reliability, and data-driven ins
 
 ## 📊 Data Analysis Projects
 
-### 📌 DataNova – Sales Analysis by Region
+### 📌 Superstore Dataset – Sales Analysis by Region
 
 * Cleaned and analyzed regional sales data
-* Created dashboards using Excel
+* Created dashboards using Power BI
 * Identified trends and key performance indicators
 
-🔗 *[Add your repo link here]*
+🔗 [*Retail Analytics*](https://github.com/AnaCenteno-DA/Retail_Analytics_Superstore_Dashboard)
 
 ---
 
 ### 📌 Public Data Project (Québec / MIFI)
 
 * Analysis of public datasets related to immigration or education
-* Data visualization using Tableau / Power BI
+* Data visualization using Excel / Tableau
 * Insights to support decision-making
 
-🔗 [Data Nova Project]*[Add your repo link here]*
+🔗 [*Francisation Québec*](https://github.com/AnaCenteno-DA/Francisation_Qu-bec_Donn-es_et_visualisation.md)
 
 ---
 
 ### 📌 SQL Data Analysis
 
-* Data extraction and analysis using SQL queries
+* Data extraction and analysis using SQL queries 
 * Filtering, grouping, and aggregating data
+* Created dashboard in Microsoft Excel (pivot tables and charts)
 * Validation of data consistency
 
 🔗[*Data Nova Project*](https://github.com/AnaCenteno-DA/Data_Analysis_with_Northwind_DB)
