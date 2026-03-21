@@ -153,4 +153,4 @@ Excel | SQL | Power BI | Tableau (basic)
 
 ## ⭐ Professional Summary
 
-I am a QA professional transitioning into data-driven quality and analytics roles, focused on improving system reliability, ensuring data accuracy, and delivering insights that support business decisions.
+I am a QA professional with 4+ years of experience in software testing, applying data analysis techniques to improve quality, validation, and reporting, with a strong focus on system reliability, data accuracy, and delivering insights that support business decisions.
