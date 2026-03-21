@@ -127,10 +127,10 @@ I combine **Quality Assurance expertise with Data Analysis skills** to validate 
 
 ## 📈 Tools & Technologies
 
-**QA Tools**
+**QA Tools:**
 Postman | Jira (concepts) | Agile | Test Management
 
-**Data Tools**
+**Data Tools:**
 Excel | SQL | Power BI | Tableau (basic)
 
 ---
