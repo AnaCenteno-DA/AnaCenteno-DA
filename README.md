@@ -6,7 +6,7 @@ Bilingual data & QA professional based in Quebec, Canada, with 4+ years of exper
 
 I specialize in ensuring data accuracy and system reliability through structured QA methodologies, and in turning data into clear, actionable insights using SQL, Excel, and Power BI.
 
-📍 Laval, Quebec (Canada) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ana-centeno-tech/) &nbsp;|&nbsp; 📧 centenoaj@outlook.com
+📍 Quebec (Canada) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ana-centeno-tech/) &nbsp;|&nbsp; 📧 centenoaj@outlook.com
 
 ---
 
