@@ -29,7 +29,8 @@ Actively working in QA Manual Testing, currently expanding into Automation.
 ### 🔹 [QA Manual Testing Portfolio](https://github.com/AnaCenteno-DA/QA-Testing-portfolio)
 Full manual QA workflow: test plan → test case design → execution → bug reporting.
 
-**Skills:** Functional & Regression Testing, UAT, Exploratory Testing, Bug Reporting
+**Skills:** Functional & Regression Testing, UAT, Exploratory Testing, Bug Reporting.
+
 **Tools:** Excel, Jira-style reporting, Postman (basic API validation)
 
 ### 🔹 [QA Automation Testing](https://github.com/AnaCenteno-DA/QA-Automation-Testing)
