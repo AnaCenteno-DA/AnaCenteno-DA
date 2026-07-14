@@ -65,8 +65,10 @@ Exploration of job market trends using Power BI on open data.
 
 ## 🧰 Tech Stack
 
-**QA:** Manual Testing · Test Case Design · Defect Management · Regression Testing · API Testing (Postman) · Agile/Scrum
+**QA:** Manual Testing · Test Case Design · Defect Management · Regression Testing · API Testing (Postman) · Agile/Scrum 
+
 **Data & BI:** SQL · Power BI (DAX, data modeling) · Excel (Pivot Tables, Power Query) · Tableau · Introduction to Data Science
+
 **Currently learning:** Playwright · Test Automation Frameworks · K6
 
 ---
