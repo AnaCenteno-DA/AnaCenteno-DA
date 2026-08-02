@@ -22,7 +22,7 @@ I specialize in ensuring data accuracy and system reliability through structured
 
 ---
 
-## 🧪 QA — Manual & Automation Testing
+## 🧪 QA — Manual & Automation Portfolio
 
 Actively working in QA Manual Testing, currently expanding into Automation.
 
