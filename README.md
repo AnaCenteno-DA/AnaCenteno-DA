@@ -26,17 +26,29 @@ I specialize in ensuring data accuracy and system reliability through structured
 
 Actively working in QA Manual Testing, currently expanding into Automation.
 
-### 🔹 [QA Manual Testing ](https://github.com/AnaCenteno-DA/QA-Testing-portfolio)
-Full manual QA workflow: test plan → test case design → execution → bug reporting.
 
-**Skills:** Functional & Regression Testing, UAT, Exploratory Testing, Bug Reporting.
+### 🔹 [QA Manual Testing](https://github.com/AnaCenteno-DA/QA-Testing-portfolio)
 
-**Tools:** Excel, Jira-style reporting, Postman (basic API validation)
+End-to-end manual QA workflow covering **test planning, test case design, test execution, defect identification, and bug reporting**.
+
+**Skills:** Functional Testing, Regression Testing, UAT, Exploratory Testing, Test Case Design, Bug Reporting.
+
+**Tools:** Excel, Postman (basic API validation), GitHub.
+
 
 ### 🔹 [QA Automation Portfolio](https://github.com/AnaCenteno-DA/QA-Automation-Testing)
-In-progress repository documenting my QA Automation training and projects.
 
-**Learning:** Playwrigth, API automation, TypeScript , K6, test scripts
+QA Automation portfolio showcasing hands-on testing projects and practical experience across multiple testing areas.
+
+### Technologies & Testing Skills
+
+* **UI Automation:** Playwright + TypeScript
+* **API Testing:** Postman, REST APIs, assertions, environments
+* **Performance Testing:** k6 — Smoke, Load, Stress, Spike, and Soak testing
+* **Mobile Automation:** Appium + Java, Android, UiAutomator2
+* **CI/CD:** GitHub Actions and automated test execution
+* **Test Automation:** Page Object Model (POM), reusable components, test scripts
+* **Version Control:** Git & GitHub
 
 ---
 
