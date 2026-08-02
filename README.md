@@ -32,7 +32,7 @@ End-to-end manual QA workflow covering **test planning, test case design, test e
 
 **Skills:** Functional Testing, Regression Testing, UAT, Exploratory Testing, Test Case Design, Bug Reporting.
 
-**Tools:** Excel, Postman (basic API validation), Git & GitHub.
+**Tools:** Excel, Postman (basic API validation),Jira, Azure DevOps, Git & GitHub.
 
 ## 🔹 QA Automation
 
