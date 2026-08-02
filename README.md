@@ -22,11 +22,11 @@ I specialize in ensuring data accuracy and system reliability through structured
 
 ---
 
-# 🧪 [QA — Manual & Automation Testing](https://github.com/AnaCenteno-DA/QA-Testing-portfolio)
+# 🧪 QA — Manual & Automation Testing
 
 QA testing portfolio combining **manual testing expertise with hands-on QA automation projects**.
 
-## 🔹 QA Manual Testing
+## 🔹 [QA Manual Testing](https://github.com/AnaCenteno-DA/QA-Testing-portfolio)
 
 End-to-end manual QA workflow covering **test planning, test case design, test execution, defect identification, and bug reporting**.
 
