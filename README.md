@@ -34,7 +34,7 @@ End-to-end manual QA workflow covering **test planning, test case design, test e
 
 **Tools:** Excel, Postman (basic API validation),Jira, Azure DevOps, Git & GitHub.
 
-## 🔹 QA Automation
+## 🔹 [QA Automation Portfolio](https://github.com/AnaCenteno-DA/QA-Automation-Portfolio)
 
 Hands-on QA automation projects demonstrating practical experience across **UI, API, performance, mobile, and CI/CD testing**.
 
